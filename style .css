@@ -1,0 +1,30 @@
+
+body {
+    min-height: 3000px;
+}
+.jumbotron {
+    padding-top: 4rem; /* Atur padding atas sesuai keinginan */
+    margin-top: 5rem; /* Atur margin atas sesuai kebutuhan */
+    background-color: #f8f9fa; /* Warna latar belakang jumbotron */
+}
+
+#projects {
+    background-color: #f8f9fa
+
+}
+.about {
+    padding-top: 2rem;
+}
+.navbar-brand {
+    font-family: 'Bentham', serif; /* Menggunakan jenis font Bentham Regular */
+    font-size: 24px;
+    text-decoration: none;
+}
+section {
+    padding-top: 5rem;
+}
+.author-blue {
+    font-style: italic;
+    font-size: 16px;
+    color: blue;
+}
